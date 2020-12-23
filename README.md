@@ -1,5 +1,5 @@
-# FolderSearch
-A small extension for Google drive that searches the specified folder and returns some statistics
+# Folder Search
+A small add on for Google drive that searches the specified folder and returns some statistics such as pages written, words, and characters.
 
 ### How to run
 
@@ -35,3 +35,5 @@ Add-ons > Folder Search > Custom Search
 ```
 
 Enter `ROOT_` for all files in the google drive, or enter the name of any of the base level folders. Then on the next window enter all the folders you want to exclude, these don't have to be base level folders.
+
+It will take a couple minutes to run and depends on how much stuff you have in the drive.
