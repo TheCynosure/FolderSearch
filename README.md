@@ -34,4 +34,4 @@ The document will reopen, then finally:
 Add-ons > Folder Search > Custom Search
 ```
 
-Enter ROOT_ for all files in the google drive, or enter the name of any of the base level folders. Then on the next window enter all the folders you want to exclude, these don't have to be base level folders.
+Enter `ROOT_` for all files in the google drive, or enter the name of any of the base level folders. Then on the next window enter all the folders you want to exclude, these don't have to be base level folders.
